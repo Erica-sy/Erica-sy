@@ -11,7 +11,7 @@
 - Getting More for Less: Using Weak Labels and AV-Mixup for Robust Audio-Visual Speaker Verification [arXiv 2023] [paper](https://arxiv.org/abs/2309.07115)
 - On Understanding Context Modelling for Adaptive Authentication Systems [paper](https://dl.acm.org/doi/abs/10.1145/3582696)
 #### 2022
-- AVA-AVD: Audio-visual Speaker Diarization in the Wild [ACM] [paper](https://dl.acm.org/doi/10.1145/3503161.3548027)
+- AVA-AVD: Audio-visual Speaker Diarization in the Wild [ACM] [paper](https://dl.acm.org/doi/10.1145/3503161.3548027) [dataste and code](https://github.com/showlab/AVA-AVD)
 - Learning Audio-Visual embedding for Person Verification in the Wild [arXiv 2022] [paper](http://arxiv.org/abs/2209.04093)
 - Audio-Visual Cross-Attention Network for Robotic Speaker Tracking [IEEE] [paper](https://ieeexplore.ieee.org/document/9968308/)
 #### 2020
