@@ -2,7 +2,7 @@
 ### Multimodal fusion
 #### 2024
 - Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention [arXiv 2024] [paper](http://arxiv.org/abs/2403.04654)
-- Dynamic Cross Attention for Audio-Visual Person Verification [arXiv 2024] [paper](http://arxiv.org/abs/2403.04661)
+- Dynamic Cross Attention for Audio-Visual Person Verification [arXiv 2024] [paper](http://arxiv.org/abs/2403.04661) [code]( https://github.com/praveena2j/DCAforPersonVerification)
 - Multimodal Speaker Recognition using voice and lip movement with decision and feature level fusion [IEEE] [paper](https://www.researchsquare.com/article/rs-2960709/v1)
 - Unsupervised Speaker Diarization in Distributed IoT Networks Using Federated Learning [arXiv 2024] [paper](https://arxiv.org/pdf/2404.10842)
 #### 2023
@@ -49,7 +49,7 @@
 #### 2022
 - Incorporating Visual Information in Audio Based Self-Supervised Speaker Recognition [IEEE] [paper](https://ieeexplore.ieee.org/abstract/document/9741340)
 #### 2021
-- Exploring Deep Learning for Joint Audio-Visual Lip Biometrics [arXiv 2021] [paper](http://arxiv.org/abs/2104.08510)
+- Exploring Deep Learning for Joint Audio-Visual Lip Biometrics [arXiv 2021] [paper](http://arxiv.org/abs/2104.08510) [dataset](https://github.com/DanielMengLiu/DeepLip)
 - Multimodal Emotion Recognition With Temporal and Semantic Consistency [IEEE] [paper](https://ieeexplore.ieee.org/abstract/document/9622137)
 ### Self-supervised learning
 #### 2023
