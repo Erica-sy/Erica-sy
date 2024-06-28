@@ -1,7 +1,7 @@
 ## Papers
 ### Multimodal fusion
 #### 2024
-- Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention [arXiv 2024] [paper](http://arxiv.org/abs/2403.04654)
+- Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention [arXiv 2024] [paper](http://arxiv.org/abs/2403.04654) [code](https://github.com/praveena2j/RJCAforSpeakerVerification)
 - Dynamic Cross Attention for Audio-Visual Person Verification [arXiv 2024] [paper](http://arxiv.org/abs/2403.04661) [code]( https://github.com/praveena2j/DCAforPersonVerification)
 - Multimodal Speaker Recognition using voice and lip movement with decision and feature level fusion [IEEE] [paper](https://www.researchsquare.com/article/rs-2960709/v1)
 - Unsupervised Speaker Diarization in Distributed IoT Networks Using Federated Learning [arXiv 2024] [paper](https://arxiv.org/pdf/2404.10842)
@@ -18,7 +18,7 @@
 - Audio-visual Speaker Recognition with a Cross-modal Discriminative Network [arXiv 2020] [paper](http://arxiv.org/abs/2008.03894)
 ### Attention mechanisms and feature enhancement
 #### 2024
-- Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention [arXiv 2024] [paper](http://arxiv.org/abs/2403.04654)
+- Audio-Visual Person Verification based on Recursive Fusion of Joint Cross-Attention [arXiv 2024] [paper](http://arxiv.org/abs/2403.04654) [code](https://github.com/praveena2j/RJCAforSpeakerVerification)
 #### 2023
 - A Method of Audio-Visual Person Verification by Mining Connections between Time Series [ISCA] [paper](https://www.isca-archive.org/interspeech_2023/sun23_interspeech.html)
 - AVoiD-DF: Audio-Visual Joint Learning for Detecting Deepfake [IEEE] [paper](https://ieeexplore.ieee.org/abstract/document/10081373)
