@@ -84,3 +84,21 @@
 #### 2023
 - Self-Supervised Training of Speaker Encoder With Multi-Modal Diverse Positive Pairs [IEEE] [paper](https://ieeexplore.ieee.org/abstract/document/10106039)
 - On Understanding Context Modelling for Adaptive Authentication Systems [paper](https://dl.acm.org/doi/abs/10.1145/3582696)
+
+
+## Dataset
+### AVSpeech Dataset  [Download](https://github.com/naba89/AVSpeechDownloader)
+- 结构： AVSpeech数据集是一个大规模的语音-视频数据集，包含超过5000小时的视频数据，每个视频都有相应的音频和字幕。
+- 应用场景： 用于语音和视觉信号的联合分析，如语音识别、人物检测和跨模态个体验证。
+### VoxCeleb Dataset  [Download](https://github.com/a-nagrani/VGGVox)
+- 结构： VoxCeleb数据集包含数千小时的演讲者语音数据，以及他们在YouTube视频中的面部图像。
+- 应用场景： 用于跨模态的说话人识别和认证，结合语音和面部图像进行说话人验证。
+### AVDIAR Dataset  [Download](https://github.com/UTDTianGroup/AVDIAR2ASD)
+- 结构： AVDIAR数据集是一个用于音频-视频说话人分离和识别的数据集，包含来自不同场景和环境的多模态数据。
+- 应用场景： 用于音频和视频的说话人分离和识别，适用于语音会议记录、视频会议等场景。
+### MIRACLE Dataset  [Download](https://github.com/coreysnipes/odm_data_miracle_park)
+- 结构： MIRACLE数据集包含来自多个传感器（包括视觉、声音和生物特征）的数据，用于人的身份识别和认证。
+- 应用场景： 用于综合多种生物特征进行个体身份识别和认证，例如在安全监控系统中结合多种传感器进行身份验证。
+### CASIA Dataset  [Download](https://github.com/namtpham/casia2groundtruth)
+- 结构： CASIA数据集包含大量的视觉数据，如面部图像和视频，用于人脸识别和认证。
+- 应用场景： 虽然主要是用于单一模态的人脸识别，但可以与其他数据集结合，进行跨模态的身份识别研究，如结合语音或语言信息进行身份验证。
