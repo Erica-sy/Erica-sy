@@ -55,7 +55,7 @@
 #### 2024
 - Improving Speaker Verification With Noise-Aware Label Ensembling and Sample Selection: Learning and Correcting Noisy Speaker Labels [IEEE] [paper](https://ieeexplore.ieee.org/abstract/document/10542426) [dataset](http://www.festvox.org/cmu_arctic/)
 #### 2023
--Cross-Modal Audio-Visual Co-Learning for Text-Independent Speaker Verification [arXiv] [paper](https://ieeexplore.ieee.org/abstract/document/10095883)
+- Cross-Modal Audio-Visual Co-Learning for Text-Independent Speaker Verification [arXiv] [paper](https://ieeexplore.ieee.org/abstract/document/10095883)
 - Getting More for Less: Using Weak Labels and AV-Mixup for Robust Audio-Visual Speaker Verification [arXiv 2023] [paper](https://arxiv.org/abs/2309.07115)
 - USEV: Universal Speaker Extraction With Visual Cue [IEEE] [paper](https://ieeexplore.ieee.org/abstract/document/9887809)
 - Fast Search of Face Recognition Model for a Mobile Device Based on Neural Architecture Comparator [IEEE] [paper](https://ieeexplore.ieee.org/abstract/document/10168107) [dataset](https://creativecommons.org/licenses/by/4.0/)
