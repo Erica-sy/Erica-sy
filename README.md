@@ -71,7 +71,7 @@
 - Incorporating Visual Information in Audio Based Self-Supervised Speaker Recognition [IEEE] [paper](https://ieeexplore.ieee.org/abstract/document/9741340)
 - Using Active Speaker Faces for Diarization in TV shows [arXiv 2022] [paper](https://arxiv.org/abs/2203.15961)
 - Intel Labs at Ego4D Challenge 2022: A Better Baseline for Audio-Visual Diarization [arXiv 2022] [paper](https://arxiv.org/abs/2210.07764)
-- LATE AUDIO-VISUAL FUSION FOR IN-THE-WILD SPEAKER DIARIZATION [arXiv 2022] [paper](https://arxiv.org/abs/2211.01299) [dataset1](GitHub - TaoRuijie/TalkNet-ASD: ACM MM 2021: 'Is Someone Speaking? Exploring Long-term Temporal Features for Audio-visual Active Speaker Detection') [dataset2](https://github.com/serengil/deepface)
+- LATE AUDIO-VISUAL FUSION FOR IN-THE-WILD SPEAKER DIARIZATION [arXiv 2022] [paper](https://arxiv.org/abs/2211.01299)  [dataset](https://github.com/serengil/deepface)
 #### 2021
 - Exploring Deep Learning for Joint Audio-Visual Lip Biometrics [arXiv 2021] [paper](http://arxiv.org/abs/2104.08510) [dataset](https://github.com/DanielMengLiu/DeepLip)
 - Multimodal Emotion Recognition With Temporal and Semantic Consistency [IEEE] [paper](https://ieeexplore.ieee.org/abstract/document/9622137)
